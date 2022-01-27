@@ -40,7 +40,7 @@ for more information of pyinstaller use https://pyinstaller.readthedocs.io/en/st
 ## test files
 i can give you reports pdfs files under NDA
 # LICENSE
-Copyright [2021] [Maksim Trushin]
+Copyright 2021 Maksim Trushin
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
